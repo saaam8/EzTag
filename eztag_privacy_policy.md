@@ -22,4 +22,4 @@ If the privacy policy is updated in the future, any changes will be published on
 
 ## Contact
 
-For any questions, please contact: [your@email.com](mailto:your@email.com)
+For any questions, please contact: [sum6767@gmail.com](mailto:sum6767@gmail.com)
