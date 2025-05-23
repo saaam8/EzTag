@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "EzTag",
+  "version": "1.0",
+  "description": "Automatically adds the source website name to downloaded file names.",
+  "permissions": ["downloads"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "EzTag is running"
+  }
+}
